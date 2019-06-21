@@ -5,6 +5,9 @@
 * [Default.aspx.cs](./CS/WebSite/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/WebSite/Default.aspx.vb))
 <!-- default file list end -->
 # How to export PDF on the server using ASPxGridViewExporter and download it on demand
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e4608/)**
+<!-- run online end -->
 
 
 <p>This example  implements the following functionality:</p><p>1) Click the Export on Server button to save grid content on the server side using the <a href="http://documentation.devexpress.com/#AspNet/DevExpressWebASPxGridViewExportASPxGridViewExporter_WritePdftopic"><u>ASPxGridViewExporter.WritePdf</u></a> method.</p><p>2) Click the Download  button to save previously exported files on a client machine.</p>
